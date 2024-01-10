@@ -1,5 +1,7 @@
 # 🐋 Docker - Basics 🐳 
 
+![docker](https://github.com/julien-muke/docker_course/assets/110755734/75eb1a10-c97d-462b-b131-7de9351a13cb)
+
 
 ## 🚨 Docker Tutorial
 
